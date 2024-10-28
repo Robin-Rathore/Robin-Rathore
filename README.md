@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1N4PIJ5AkQKjVFfBt-7hzEBLoGh6YjjO6/view](https://drive.google.com/file/d/1N4PIJ5AkQKjVFfBt-7hzEBLoGh6YjjO6/view)
 
-- ⚡ Fun fact **You know the best thing about being a software developer? We can build anything from a pet shop website to a social media app used by billions, all from the comfort of our bedrooms! :)**
+- ⚡**You know the best thing about being a software developer's? We can build anything from a pet shop website to a social media app used by billions, all from the comfort of our bedrooms! :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
