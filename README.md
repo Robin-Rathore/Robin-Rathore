@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/robinrathore007" target="blank"><img src="https://img.shields.io/twitter/follow/robinrathore007?logo=twitter&style=for-the-badge" alt="robinrathore007" /></a> </p>
 
-- 🔭 I’m currently working on [Creed Homewares](creedhomewares.in)
 
-- 🌱 I’m currently exploring **Software Architecture Designing and Development**
+- 🌱 I’m currently exploring **Ai Agents**
 
 - 👨‍💻 All of my projects are available at [https://robin0.netlify.app/](https://robin0.netlify.app/)
 
