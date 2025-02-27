@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently exploring **Ai Agents**
 
-- 👨‍💻 All of my projects are available at [https://robin0.netlify.app/](https://robin0.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rathorerobin0.netlify.app/](https://rathorerobin0.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/7120701268351680512?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByIHrqbwMRG2gGP5TGq7Vuw%3D%3D](https://www.linkedin.com/newsletters/7120701268351680512?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByIHrqbwMRG2gGP5TGq7Vuw%3D%3D)
 
