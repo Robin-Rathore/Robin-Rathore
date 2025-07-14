@@ -6,17 +6,9 @@
 <p align="left"> <a href="https://twitter.com/robinrathore007" target="blank"><img src="https://img.shields.io/twitter/follow/robinrathore007?logo=twitter&style=for-the-badge" alt="robinrathore007" /></a> </p>
 
 
-- 🌱 I’m currently exploring **Ai Agents**
-
-- 👨‍💻 All of my projects are available at [https://rathorerobin0.netlify.app/](https://rathorerobin0.netlify.app/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/newsletters/7120701268351680512?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByIHrqbwMRG2gGP5TGq7Vuw%3D%3D](https://www.linkedin.com/newsletters/7120701268351680512?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByIHrqbwMRG2gGP5TGq7Vuw%3D%3D)
-
-- 💬 Ask me about **MERN, Firebase, MySql, AWS, Docker, Algorithm Design, Competetive Programming**
+- 🌱 I’m currently Building some fantastic **Ai Agents**
 
 - 📫 How to reach me **robinsingh248142@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N4PIJ5AkQKjVFfBt-7hzEBLoGh6YjjO6/view](https://drive.google.com/file/d/1N4PIJ5AkQKjVFfBt-7hzEBLoGh6YjjO6/view)
 
 - ⚡**You know the best thing about being a software developer's? We can build anything from a pet shop website to a social media app used by billions, all from the comfort of our bedrooms! :)**
 
